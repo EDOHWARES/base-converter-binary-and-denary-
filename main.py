@@ -58,6 +58,8 @@ def main():
 
     return f"{number} in {base}: {result}"
 
-print(main())
+
+if __name__ == "__main__":
+    print(main())
 
 
